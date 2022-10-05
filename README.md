@@ -65,9 +65,19 @@ In the tab adafruit_14_neopixel.io, I changed PIXEL_PIN 5 to PIXEL_PIN D5
 ## Step 5: Upload your code
 1. Upload the code
 2. Tools > Serial Monitor
-3. Set serial monitor to 115200 baud 
+3. Set serial monitor to 115200 baud
     - If you see this:
     
     <img width="775" alt="Screenshot 2022-10-05 at 17 21 50" src="https://user-images.githubusercontent.com/83424135/194098717-164a10c5-e8a3-49b7-a4a3-500117f8ff49.png">
 
       It means that you're probably doing something wrong. In my case I forgot to swtich to my hotspot. I was still connected to my 5G Wifi.
+      
+      Once your connected, you'll see this:
+      
+<img width="220" alt="Screenshot 2022-10-05 at 17 51 54" src="https://user-images.githubusercontent.com/83424135/194105946-235672c5-323e-4c9a-af26-39b37933c539.png">
+
+When you edit the color you'll see the changes in the serial monitor like in the previous picture.
+
+## References
+
+https://docs.google.com/document/d/14jhaxaJUhuu0p6_u_oNj8_50Y6PAmtrvcePtKc0HDGs/edit#
