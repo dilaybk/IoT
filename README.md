@@ -78,6 +78,16 @@ In the tab adafruit_14_neopixel.io, I changed PIXEL_PIN 5 to PIXEL_PIN D5
 
 When you edit the color you'll see the changes in the serial monitor like in the previous picture.
 
+## Result
+The results should look like this:
+
+https://user-images.githubusercontent.com/83424135/194108734-9acf5fb3-1443-403d-b996-1d195792562c.MOV
+
+(link to the video if it doesn't work: 
+https://icthva-my.sharepoint.com/:v:/g/personal/dilay_bayraktaroglu_hva_nl/EdbtymE8qzVGleYlL138lnwBNAz8v5SISYWyu1w5OZrU9w?e=pb8fVb)
+
+
+
 ## References
 
 https://docs.google.com/document/d/14jhaxaJUhuu0p6_u_oNj8_50Y6PAmtrvcePtKc0HDGs/edit#
